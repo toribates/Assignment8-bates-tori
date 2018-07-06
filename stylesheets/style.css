@@ -108,6 +108,7 @@ footer {
 
 footer.container {
   text-align: center;
+  padding: 20px 0px;
 }
 
 footer nav a {
