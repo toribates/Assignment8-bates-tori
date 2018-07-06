@@ -5,11 +5,8 @@
   box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'Cabin', sans-serif;
-}
-
 body {
+  font-family: "Cabin";
   background: #f2f2f2;
 }
 
