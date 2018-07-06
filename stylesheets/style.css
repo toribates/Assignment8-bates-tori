@@ -92,6 +92,15 @@ section.home-bottom img {
     padding: 0 45px;
 }
 
+section.home-final {
+  clear:both;
+  padding: 50px;
+}
+section.home-final img {
+  float:right;
+  padding: 15px;
+}
+
 footer {
   background: black;
 }
